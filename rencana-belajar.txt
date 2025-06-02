@@ -1,6 +1,6 @@
 rencana belajar
 
 - html dasar
-- css framework
+- css framework (tailwind)
 - js dasar
 - php dasar

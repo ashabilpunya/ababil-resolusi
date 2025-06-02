@@ -1,5 +1,5 @@
 rencana belajar
 
-- html
-- css
-- js
+- html dasar
+- css framework
+- js dasar
